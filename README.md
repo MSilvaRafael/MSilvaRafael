@@ -1,4 +1,11 @@
 ### Hi there 👋
+## I'm Rafael Silva
+- I live in Brazil:, northeast, Fortaleza-CE 😎 🏖️
+- I'm currentely working with java, PHP, MySQL, html and css.
+- I'm currently learning Flutter.
+- I'm looking for an oportunite to show my habilites on job market.
+
+
 
 <!--
 **MSilvaRafael/MSilvaRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
