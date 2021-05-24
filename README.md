@@ -2,6 +2,7 @@
 ## I'm Rafael Silva
 - I live in Brazil:, northeast, Fortaleza-CE 😎 🏖️
 - I'm currently learning Flutter <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="10" height="10" style="max-width:100%;"></img>.
+- I've been learned Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="10" height="10" style="max-width:100%"></img>.
 - I'm looking for an oportunite to show my habilites on job market.
 
 ## My Skills
@@ -10,6 +11,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="max-width:100%;"></img>
 
 ## Connect with me
