@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I'm Rafael Silva
 - I live in Brazil:, northeast, Fortaleza-CE 😎 🏖️
-- I'm currently learning Flutter <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="10" height="10" style="max-width:100%;"></img>.
-- I've been learned Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" style="max-width:100%"></img>.
+- I'm currently learning Javascript Algorithms and Data Structure <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" style="max-width:100%"></img>. 
+- I've been learned Responsive Web Design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="15" height="15" style="max-width:100%" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="15" height="15" style="max-width:100%" />
 - I'm looking for an oportunite to show my habilites on job market.
 
 ## My Skills
